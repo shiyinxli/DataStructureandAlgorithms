@@ -1,0 +1,11 @@
+{
+  "nvertices": 4,
+  "directed": false,
+  "edges": [
+    {"x": 1, "y": 2, "weight": 4},
+    {"x": 1, "y": 3, "weight": 1},
+    {"x": 2, "y": 3, "weight": 2},
+    {"x": 2, "y": 4, "weight": 5},
+    {"x": 3, "y": 4, "weight": 8}
+  ]
+}
